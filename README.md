@@ -12,15 +12,15 @@ Tras un proceso de limpieza, transformación y unión de ambas fuentes, se ha cr
 
 
 
-## 2. Estructura del repositorio  
+## 2. Estructura del repositorio
 
 📂 Proyecto-Final
-│── 📂 data_raw/
-│── 📂 data_processed/
-│── 📂 notebooks/
-│── 📂 reports/ 
-│── 📂 dashboard/ 
-│── README.md 
+├── 📂 data_raw/          # Raw data (CSV originales)
+├── 📂 data_processed/    # Final dataset procesado
+├── 📂 notebooks/         # Jupyter/VS Code notebooks con el EDA
+├── 📂 reports/           # Informe en PDF/Word
+├── 📂 dashboard/         # Power BI (.pbix) + capturas
+└── README.md             # Este archivo
 
 
 
